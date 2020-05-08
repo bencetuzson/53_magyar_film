@@ -1,2 +1,3 @@
-# 53_magyar_film
- 53 magyar film
+# 53 magyar film
+ **Server port:** 3536
+ **Server start:** "npm start"
